@@ -1,0 +1,1 @@
+This final lab concerns the creation of waveforms as output which can be called upon to be outputted by keyboard selections. They will then be displayed on the screen as well as outputing audio reflecting the waveform's attributes.
